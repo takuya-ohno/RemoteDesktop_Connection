@@ -13,9 +13,5 @@
 1. 書き換えた後、.batを実行する
 
 
-## 文責
-Takuya-Ohno
-
-
 ## 参考文献
 - [【Windows】 [バッチ] 資格情報を指定してリモートデスクトップ接続する](https://www.startpassion.life/entry/2019/01/19/132545)
